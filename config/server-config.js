@@ -6,6 +6,6 @@ module.exports = {
   fsRoot: path.resolve('./test-fiiiiles'),
   rootName: 'Customization area',
   readOnly: false,
-  port: process.env.PORT || '5000',
+  port: process.env.PORT || '8081',
   host: process.env.HOST || 'localhost'
 };
